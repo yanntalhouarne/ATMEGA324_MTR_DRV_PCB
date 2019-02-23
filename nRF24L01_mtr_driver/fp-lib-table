@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name 1935161)(type Legacy)(uri "$(KIPRJMOD)/1935161.pretty/1935161.mod")(options "")(descr ""))
+  (lib (name FT232RL)(type Legacy)(uri "$(KIPRJMOD)/FT232RL.pretty/FT232RL.mod")(options "")(descr ""))
+  (lib (name AMS1117-3.3)(type Legacy)(uri "$(KIPRJMOD)/AMS1117.pretty/AMS1117-3.3.mod")(options "")(descr ""))
+  (lib (name D5mm_P2mm_cap)(type KiCad)(uri "$(KIPRJMOD)/D5mm_P2mm_cap.pretty")(options "")(descr ""))
+  (lib (name USB)(type KiCad)(uri "$(KIPRJMOD)/USB.pretty")(options "")(descr ""))
+  (lib (name TSX_3225_16MHz_crystal)(type KiCad)(uri "$(KIPRJMOD)/TSX_3225_16MHz_crystal.pretty")(options "")(descr ""))
+  (lib (name LM27313XMF)(type Legacy)(uri "$(KIPRJMOD)/LM27313XMF.pretty/LM27313XMF.mod")(options "")(descr ""))
+  (lib (name Pico-SPOX_6pos)(type KiCad)(uri "$(KIPRJMOD)/Pico-SPOX_6pos.pretty")(options "")(descr ""))
+)
