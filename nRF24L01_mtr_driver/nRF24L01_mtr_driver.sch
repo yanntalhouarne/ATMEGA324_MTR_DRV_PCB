@@ -1392,8 +1392,8 @@ F 3 "" H 9405 16650 50  0001 C CNN
 $EndComp
 Text Label 9405 16400 1    60   ~ 0
 5V0_MCU
-Text Label 21735 2710 2    59   ~ 0
-VBAT_S
+Text Label 21735 2710 1    59   ~ 0
+5V0_MCU
 $Comp
 L LED D7
 U 1 1 5B31DE99
