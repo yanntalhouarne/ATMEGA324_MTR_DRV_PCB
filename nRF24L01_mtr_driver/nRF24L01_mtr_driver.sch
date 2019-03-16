@@ -2325,8 +2325,6 @@ Text Label 2015 14710 2    60   ~ 0
 CE
 Text Label 2015 14810 2    60   ~ 0
 SCK1
-Text Label 2515 14810 0    60   ~ 0
-~SS1
 Text Label 2515 14910 0    60   ~ 0
 MOSI1
 Text Label 2015 14910 2    60   ~ 0
@@ -4082,4 +4080,10 @@ Wire Wire Line
 	22805 7940 22980 7940
 Wire Wire Line
 	22980 7940 22980 7985
+Text Label 18490 8075 0    60   ~ 0
+5V0_MCU
+Text Label 2515 14810 0    60   ~ 0
+~SS1~
+Text Notes 5755 12455 0    60   ~ 0
+M20-9980346
 $EndSCHEMATC
