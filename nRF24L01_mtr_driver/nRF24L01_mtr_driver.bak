@@ -2802,7 +2802,7 @@ Text Label 20850 3710 1    60   ~ 0
 Text Notes 14680 5700 1    118  ~ 0
 5V, 600mA
 Text Notes 8305 5950 1    118  ~ 0
-3V3, 600mA\n
+3V3, 900mA\n
 Text Notes 17330 5275 1    118  ~ 0
 5V, 2A
 $Comp
